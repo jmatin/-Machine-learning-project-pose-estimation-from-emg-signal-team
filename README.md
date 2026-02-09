@@ -95,3 +95,9 @@ As defined in the challenge description, RMSE is given by:
 $$
 \text{RMSE} = \sqrt{\frac{1}{N_{ts}} \sum_{i=1}^{N_{ts}} (y_i - \hat{y}_i)^2}
 $$
+
+
+Where:  
+- $N_{ts}$ is the number of test observations  
+- $y_i$ is the measured concentration of the $i^{\text{th}}$ test observation  
+- $\hat{y}_i$ is the predicted concentration of the $i^{\text{th}}$ test observation
