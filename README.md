@@ -19,8 +19,7 @@
 │
 ├── README.md
 └── stat-ml-project.ipynb
-
-'''
+ ```
 
 <div align="center">
     <h1>Statistical Foundations of Machine Learning
