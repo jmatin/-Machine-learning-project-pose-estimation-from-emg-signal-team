@@ -1,4 +1,4 @@
-'''text
+'''
 ├── competition
 │   ├── Top 8 out of 42 groups.png
 │   ├── team_submission.csv
@@ -19,7 +19,7 @@
 │   ├── link
 
 └── README.md
-└── stat-ml-project.ipynb
+└── stat-ml-project.ipynb '''
 
 
 
