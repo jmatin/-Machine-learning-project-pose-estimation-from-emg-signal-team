@@ -1,3 +1,33 @@
+.
+
+├── competition
+│   ├── Top 8 out of 42 groups.png
+│   ├── team_submission.csv
+│  
+├── doc
+│   ├── paper.pdf
+│   ├── Background.png
+│   ├── Competition.png
+│   ├── Dataset.png
+│   ├── Overlapping windows.png
+│   ├── Project guidelines 3-6.png
+│   └── Project guidelines6-7.png
+│   ├── Overlapping windows.png
+│   ├── Simulation.png
+│   └── joint angles.png
+
+├── visualization
+│   ├── link
+
+└── README.md
+└── stat-ml-project.ipynb
+
+
+
+
+
+
+
 <div align="center">
     <h1>Statistical Foundations of Machine Learning
         Project 2024 - 2025</h3>
