@@ -1,4 +1,3 @@
-.
 
 ├── competition
 │   ├── Top 8 out of 42 groups.png
