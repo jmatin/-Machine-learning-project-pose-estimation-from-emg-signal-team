@@ -1,8 +1,8 @@
-'''
+```text
 ├── competition
 │   ├── Top 8 out of 42 groups.png
 │   ├── team_submission.csv
-│  
+│
 ├── doc
 │   ├── paper.pdf
 │   ├── Background.png
@@ -10,17 +10,15 @@
 │   ├── Dataset.png
 │   ├── Overlapping windows.png
 │   ├── Project guidelines 3-6.png
-│   └── Project guidelines6-7.png
-│   ├── Overlapping windows.png
+│   ├── Project guidelines6-7.png
 │   ├── Simulation.png
 │   └── joint angles.png
-
+│
 ├── visualization
-│   ├── link
-
-└── README.md
-└── stat-ml-project.ipynb '''
-
+│   └── link
+│
+├── README.md
+└── stat-ml-project.ipynb
 
 
 
