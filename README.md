@@ -1,4 +1,4 @@
-```text
+```
 ├── competition
 │   ├── Top 8 out of 42 groups.png
 │   ├── team_submission.csv
@@ -20,7 +20,7 @@
 ├── README.md
 └── stat-ml-project.ipynb
 
-
+'''
 
 <div align="center">
     <h1>Statistical Foundations of Machine Learning
